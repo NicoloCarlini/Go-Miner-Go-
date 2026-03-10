@@ -5,7 +5,7 @@ import events.Event01;
 
 public class Gioco {
 	
-	//1) 1920. 1080 2) 1366, 768tytyty
+	//1) 1920. 1080 2) 1366, 768tyty
 
 	Toolkit toolkit = Toolkit.getDefaultToolkit();
 	Risoluzione risoluzione = new Risoluzione(this);
